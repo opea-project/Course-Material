@@ -1,0 +1,22 @@
+# Data Prep kit
+
+# data-prep-toolkit-transforms[ray,all]==1.0.0
+data-prep-toolkit-transforms[all]==1.0.0
+
+# Milvus
+pymilvus
+# pymilvus[model]
+
+# --- Utils
+python-dotenv
+humanfriendly
+
+## --- Jupyter Utils
+jupyterlab
+ipykernel
+ipython
+ipywidgets
+IProgress
+chardet==5.2.0
+charset-normalizer==3.4.2
+requests
