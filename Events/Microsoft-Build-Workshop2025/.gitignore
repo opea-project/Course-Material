@@ -1,0 +1,9 @@
+input*/
+output*/
+final_output/
+storage/
+
+*.db
+*.db.lock
+
+__pycache__/
