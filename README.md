@@ -27,9 +27,9 @@ This repository is organized into two main folders:
 
 | Event | Workshop Description |
 |-------|----------------------|
-| [AAAI 2025](Events/AAAI%202025/) | Streamlining Enterprise AI RAG Pipelines with OPEA and IBM DataPrepKit |
-| [MS Build 2025](Events/MS%20Build%202025/) | Streamlining Enterprise AI RAG Pipelines with OPEA ChatQnA |
-| [ODSC](Events/ODSC/) | Deploying OPEA ChatQnA RAG on Kubernetes |
+| [AAAI 2025](/Events/AAAI-Workshop2025) | Streamlining Enterprise AI RAG Pipelines with OPEA and IBM DataPrepKit |
+| [MS Build 2025](/Events/Microsoft-Build-Workshop2025) | Streamlining Enterprise AI RAG Pipelines with OPEA ChatQnA |
+| [ODSC](/Events/GenAI-Workshops) | Deploying OPEA ChatQnA RAG on Kubernetes |
 
 ## 📚 Learning Resources
 
@@ -43,7 +43,7 @@ All curricula in the `Curriculas/` folder are delivered as **Jupyter Notebooks**
 | Family       | Title                            | Description                                                                 | Tech Stack | Level    | Platform |
 |--------------|----------------------------------|-----------------------------------------------------------------------------|------------|----------|----------|
 | **ChatQnA**   | *Coming Soon*      | Upcoming content on RAG OPEA blueprints          | *TBC*        | *TBC*    | *TBC*    |
-| **AgentQnA**  | *Coming Soon*                    | Upcoming content on agent-based OPEA blueprints                         | *TBC*        | *TBC*      | TBC      |
+| **AgentQnA**  | [Deploy AgentQnA](/Curriculas/Kubernetes/AgentQnA)                   | Kubernetes AgentQnA course/Learning components                         | Kubernetes        | 200     | Any      |
 | **GraphRAG**  | *Coming Soon*                    | Upcoming content on Graph-RAG GenAI OPEA blueprints                          | *TBC*        | TBC      | TBC      |
 | *More Coming*| *TBC*                             | Additional blueprints                   | *TBC*        | *TBC*      | *TBC*      |
 
