@@ -43,7 +43,9 @@ All curricula in the `Curriculas/` folder are delivered as **Jupyter Notebooks**
 | Family       | Title                            | Description                                                                 | Tech Stack | Level    | Platform |
 |--------------|----------------------------------|-----------------------------------------------------------------------------|------------|----------|----------|
 | **ChatQnA**   | *Coming Soon*      | Upcoming content on RAG OPEA blueprints          | *TBC*        | *TBC*    | *TBC*    |
-| **AgentQnA**  | [Deploy AgentQnA](/Curriculas/Kubernetes/AgentQnA)                   | Kubernetes AgentQnA course/Learning components                         | Kubernetes        | 200     | Any      |
+| **AgentQnA**  | [Deploy AgentQnA](/Curriculas/Kubernetes/AgentQnA/1_Deploy_AgentQnA.ipynb)                   | Deploy Agent QnA blueprint                          | Kubernetes        | 200     | Any      |
+|   | [Customize the RAG Agent](/Curriculas/Kubernetes/AgentQnA/2_Customize_rag_agent.ipynb)                  | How to customize the RAG agent                       | Kubernetes        | 200     | Any      |
+|   | [Add a new Agent ](/Curriculas/Kubernetes/AgentQnA/3_Add_a_new_agent.ipynb)                  | Add a new agent to the blueprint (Web_browser)                       | Kubernetes        | 200     | Any      |
 | **GraphRAG**  | *Coming Soon*                    | Upcoming content on Graph-RAG GenAI OPEA blueprints                          | *TBC*        | TBC      | TBC      |
 | *More Coming*| *TBC*                             | Additional blueprints                   | *TBC*        | *TBC*      | *TBC*      |
 
